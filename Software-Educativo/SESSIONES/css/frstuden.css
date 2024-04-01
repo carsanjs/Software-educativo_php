@@ -1,0 +1,115 @@
+
+/*--------- #003147;--------- */
+/*--------- #013c57;--------- */
+/*--------- #--------- */
+/*--------- #--------- */
+
+.divprimero{
+  padding: 0.2em;
+  position: relative;
+  left: 180px;
+  width: 100%;
+  display: inline-block;
+  height: 100vh;
+  padding-top: 30px;
+  text-align: left;
+}
+
+.divsegundo{
+position: absolute;
+left: 15px;
+width: 95%;
+height: 90vh;
+}
+
+h1{
+  text-transform:uppercase;
+   font: bold 20px/45px Helvetica, Verdana, sans-serif;
+   text-align: center;
+}
+
+.from{
+  margin: 0 auto;
+  padding: 0.5em;
+  background-color: #f5f5f5;
+  border:1px solid #003366;
+  width: 60%;
+  height: 50%;
+  min-width: 60%;
+  max-width: 70%;
+  position: relative;
+}
+legend h1{
+  padding: 0px;
+  margin: 0 auto;
+
+}
+
+label#labelid{ padding-left:1px;}
+label#labelnombre{padding-left:5px;}
+
+#userplaceholder{
+  display: block;
+}
+
+.session{
+  margin: 0 auto;
+  padding:30px;
+  display: inline block;
+}
+
+/*--------- ------------------------------------- */
+
+.regforblock {
+  display: inline;
+ 
+}
+
+
+input{
+  font-size: 16px;
+  color: black;
+  border:0;
+  border-radius: 5px;
+  outline: none;
+  width: 70%;
+  background-color: rgb(198, 205, 207);
+}
+select .tipoaep{
+  color: black;
+  background-color: red;
+}
+
+input:hover{
+  background-color: rgb(216, 209, 209);
+}
+input:focus{
+  background-color:rgb(160, 201, 240);
+}
+
+.d1_title::after{
+  content: "Registrar";
+  display: block;
+  justify-content: center;
+  color :#d5dbeb;
+  font-size: 15px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.session2d2{
+  padding: 20px 20px 0px 60px;
+
+}
+
+.regforblock{
+  padding-left: 140px;
+  margin: 0 auto;
+}
+
+.inblcdiv1{
+  margin: 0 auto;
+  display: block;
+  padding:14px;
+  width: 70%;
+  margin: o;
+}
